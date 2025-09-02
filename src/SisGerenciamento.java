@@ -420,6 +420,7 @@ public class SisGerenciamento {
             }
         });
 
+        
         f1.setVisible(true);
 
     }
